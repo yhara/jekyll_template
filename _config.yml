@@ -1,0 +1,11 @@
+auto:        false
+server:      false
+server_port: 4000
+
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+pygments:    false
+permalink:   /:categories/:year/:month/:day/:title.html

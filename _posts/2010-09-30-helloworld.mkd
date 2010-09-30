@@ -1,0 +1,5 @@
+---
+layout: post
+title: The first post
+---
+This is the first post of my blog.

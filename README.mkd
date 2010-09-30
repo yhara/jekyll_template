@@ -1,0 +1,41 @@
+jekyll_template
+===============
+
+blog with jekyll
+
+
+How to use
+----------
+
+1. Install jekyll
+
+    $ gem install jekyll
+
+2. Clone this repo
+
+    $ git clone http://github.com/yhara/jekyll_template.git myblog
+    $ cd myblog
+
+3. Check your posts
+
+    $ jekyll --server --auto
+    $ open http://localhost:4000/
+
+4. Compile into _site/
+
+    $ jekyll
+
+5. Upload _site/ to the server.
+
+
+TODO
+====
+
+* write css
+* make paths configurable (eg. path: "~/yhara/blog/")
+* pagination
+
+Contact
+=======
+
+http://github.com/yhara/jekyll_template
